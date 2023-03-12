@@ -51,10 +51,10 @@ body {
 }
 
 .meme_image {
-    /* max-width: 450px; */
     width: 80%;
     border-radius: 20px;
     max-height: 400px;
+    height: 100%;
 }
 .meme_button-input {
     position: absolute;

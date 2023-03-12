@@ -99,6 +99,7 @@ body {
     }
     .content__buttons:hover .meme_button {
         color: #d16b04;
+        cursor: pointer;
     }
 
     .content__buttons:hover .cross {
@@ -130,6 +131,7 @@ body {
     }
     .meme_button:hover .meme_content {
         background-color: #b3afaf;
+        cursor: pointer;
     }
     .content__header {
         font-size: 40px;
